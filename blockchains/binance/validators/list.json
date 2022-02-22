@@ -1,5 +1,11 @@
 [
     {
+        "id": "0x3dab6ee229fb92213531d490f17616b454d3f8c",
+        "name": "Karen Babar Coin",
+        "description": "Karen Babar Coin validator",
+        "website": "https://www.binance.org/en/staking/validator/0x3dab6ee229fb92213531d490f17616b454d3f8c"
+    },
+        {
         "id": "bva16kujlngdxq4pvyf87gpzx2x7ya4lgsz96j0aqt",
         "name": "pexmons",
         "description": "pexmons validator",
