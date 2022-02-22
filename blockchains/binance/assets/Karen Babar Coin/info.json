@@ -1,0 +1,12 @@
+{
+    "name": "Karen Babar Coin",
+    "symbol": "KBC",
+    "type": "BEP2",
+    "decimals": 9,
+    "description": "Karen Babar Coin is a decentralized finance protocol that allows people to lend and borrow crypto.",
+    "website": "https://www.KBCoin.org",
+    "explorer": "https://bscscan.com/token/0x3dab6ee229fb92213531d490f17616b454d3f8ca",
+    "research": "https://research.binance.com/en/projects/Karen-Babar-Coin-protocol",
+    "status": "active",
+    "id": "0x3dab6ee229fb92213531d490f17616b454d3f8ca"
+}
