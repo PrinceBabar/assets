@@ -1,10 +1,39 @@
-"name": "Karen Babar Coin",
-    "website": "https://www.KBCoin.org
-    "description": "Karen Babar Coin in partnership with Binance Pancakeswap poocoin.app/.",
+{
+    "name": "Karen Babar Coin",
+    "website": "https://www.KBCoin.org",
+    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.",
     "explorer": "https://bscscan.com/token/0x3dab6ee229fb92213531d490f17616b454d3f8ca",
-    "type": "BEP20",
+    "research": "https://bscscan.com/token/0x3dab6ee229fb92213531d490f17616b454d3f8ca",
     "symbol": "KBC",
+    "type": "coin",
     "decimals": 9,
     "status": "active",
-    "id": "0x3dab6ee229fb92213531d490f17616b454d3f8ca"
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/KarenBabarCoin/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/KarenBabarCoin"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Karen_Babar_Coin"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://KBCoin.org/resources/Karen_Babar_Coin_WhitePaper_en.pdf"
+        }
+    ]
 }
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Con
