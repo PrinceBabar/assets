@@ -1,0 +1,10 @@
+"name": "Karen Babar Coin",
+    "website": "https://www.KBCoin.org
+    "description": "Karen Babar Coin in partnership with Binance Pancakeswap poocoin.app/.",
+    "explorer": "https://bscscan.com/token/0x3dab6ee229fb92213531d490f17616b454d3f8ca",
+    "type": "BEP20",
+    "symbol": "KBC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x3dab6ee229fb92213531d490f17616b454d3f8ca"
+}
