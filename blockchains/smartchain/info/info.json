@@ -1,32 +1,33 @@
 {
-    "name": "BNB Smart Chain",
-    "website": "https://binance.org/en/smartChain",
-    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.",
-    "explorer": "https://bscscan.com/",
-    "research": "https://research.binance.com/en/projects/bnb",
-    "symbol": "BNB",
+    "name": "Karen Babar Coin",
+    "website": "https://www.KBCoin.org",
+    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Karen Babar Coin.",
+    "explorer": "https://bscscan.com/token/0x3dab6ee229fb92213531d490f17616b454d3f8ca",
+    "research": "https://research.binance.com/en/projects/kbc",
+    "symbol": "KBC",
     "type": "coin",
-    "decimals": 18,
+    "decimals": 9,
     "status": "active",
+    "id": "0x3dab6ee229fb92213531d490f17616b454d3f8ca"
     "tags": [
         "staking-native"
     ],
     "links": [
         {
             "name": "github",
-            "url": "https://github.com/binance-chain/"
+            "url": "https://github.com/PrinceBabar/KarenBabarCoin-KBC/"
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/binance_dex"
+            "url": "https://twitter.com/KarenBabarCoin"
         },
         {
             "name": "reddit",
-            "url": "https://reddit.com/r/BinanceExchange"
+            "url": "https://reddit.com/r/KarenBabarCoin"
         },
         {
             "name": "whitepaper",
-            "url": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
+            "url": "https://KBCoin.org/resources//Karen_Babar_Coin_WhitePaper_en.pdf"
         }
     ]
 }
